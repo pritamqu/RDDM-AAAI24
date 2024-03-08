@@ -8,7 +8,7 @@ AAAI 2024
 <h3 align="center">
 <a href="https://www.debadityashome.com">Debaditya Shome</a>
 &nbsp;
-Pritam Sarkar
+<a href="https://www.pritamsarkar.com">Pritam Sarkar</a>
 &nbsp;
 Ali Etemad
 </h3>
